@@ -4,4 +4,4 @@
 
 <h1> moved onto jenkins on aws succesfully </h1>
 
-<h1> Configured Web Hook As Well ! Lets See @ 02:35 PM .................. </h1>
+<h1>Using Private Ips </h1>
